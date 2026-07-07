@@ -9,6 +9,8 @@
 
 # Enchanted
 
+[Jaz](https://github.com/gluonfield/jaz) is the new iteration of this project.
+
 Enchanted is an open source, [Ollama](https://github.com/jmorganca/ollama) compatible, elegant macOS/iOS/visionOS app for working with privately hosted models such as Llama 2, Mistral, Vicuna, Starling, and more. It's essentially ChatGPT app UI that connects to your private models. The goal of Enchanted is to deliver an unfiltered, secure, private, and multimodal experience across all of your devices in the iOS ecosystem (macOS, iOS, Watch, Vision Pro).
 
 If you like the project, consider leaving a ⭐️ and following on [𝕏](https://twitter.com/amgauge).
